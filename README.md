@@ -1,2 +1,4 @@
 # BeginnerML
-Given the titanic dataset in kaggle , the prediction on what sort of people survived the titanic disaster is done. 
+Titanic Kaggle competition prediction using two different approaches.
+1. Using DecisionTreeClassifier
+2. One layer neural network coded from scratch (without any external library)
